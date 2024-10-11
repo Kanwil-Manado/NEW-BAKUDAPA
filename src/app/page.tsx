@@ -1,7 +1,11 @@
+import Hero from "@/components/Hero";
+
 const Homepage = () => {
   return (
-    <div className=''>Homepage</div>
+    <div className="font-sans">
+     <Hero />
+    </div>
   )
 }
 
-export default Homepage
+export default Homepage;
