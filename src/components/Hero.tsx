@@ -1,21 +1,6 @@
-// import React from 'react'
-// import { BackgroundGradientAnimation } from './ui/background-gradient-animation'
-
-// const Hero = () => {
-//   return (
-//     <div className='pb-20 pt-36'>
-//       <div> 
-//         <BackgroundGradientAnimation className=''/>
-//       </div>
-//     </div>
-//   )
-// }
-
-// export default Hero
 
 import React from 'react'
 import { BackgroundGradientAnimation } from './ui/background-gradient-animation'
-import TailwindcssButtons from './ui/tailwindcss-button'
 import ButtonHover from './ui/buttonHover'
 
 const Hero = () => {
